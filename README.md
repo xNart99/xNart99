@@ -43,8 +43,8 @@ Email: jonetran.work@gmail.com</br>
 
 
 <p width="100%">
-<img width="53%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=veDnimatvi&show_icons=true" /> 
-<img width="44%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veDnimatvi&layout=compact" />
+<img width="53%" align="top" max-height="100%" alt="xNart99 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xNart99&show_icons=true" /> 
+<img width="44%" alt="xNart99 GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNart99&layout=compact" />
 </p>
 
 
