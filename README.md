@@ -21,27 +21,22 @@ I could fluency to speak in English and Vietnamese
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="20"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20"></a>
+    <a href="#"><img alt="Nestjs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" height="20"></a>
     <a href="#"><img alt="AngularJS" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="20"></a>
     <a href="#"><img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="20"></a>
-    <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" height="20"></a>
     <a href="#"><img alt="Antd" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" height="20"></a>
-    <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="20"></a>
-     <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>
+    <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>
     <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20"></a>
-    <a href="#"><img alt="Graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" height="20"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="20"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20"></a>
+    <a href="#"><img alt="P5JS" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" height="20"></a>
 </p>
 
 > TypeScript and Angular is the new things i'm learning currently
 
 <h1>📫 How to reach me</h1>
 Email: jonetran.work@gmail.com</br>
-
-
+</br>
 <p width="100%">
 <img width="53%" align="top" max-height="100%" alt="xNart99 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xNart99&show_icons=true" /> 
 <img width="44%" alt="xNart99 GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNart99&layout=compact" />
